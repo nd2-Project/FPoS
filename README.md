@@ -1,7 +1,7 @@
-# PoN
-Designed for WagerChain
+# nd2
+The 1st PoN blockchain
 ## Wiki
 
-Encuentra todo el contenido de este repositorio en el [Wiki](https://github.com/WagerChain/PoN/wiki).
+Find all the contents of this repository in the [Wiki](https://github.com/nd2-Project/core/wiki).
 
-[![Screenshot](wiki.jpg)](https://github.com/WagerChain/PoN)
+[![Screenshot](wiki.jpg)](https://github.com/nd2-Project/core)
